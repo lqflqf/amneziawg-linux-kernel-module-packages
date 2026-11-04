@@ -1,0 +1,48 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64 arm64
+Codename: bookworm
+Components: main
+Date: Wed, 04 Nov 2026 13:14:12 +0000
+Description: AmneziaWG kernel module for Debian bookworm
+Label: AmneziaWG kernel module
+Origin: AmneziaWG
+Suite: bookworm
+Valid-Until: Fri, 04 Dec 2026 13:14:12 +0000
+MD5Sum:
+ 3e3a06da2ffbf67289854f82fa26ba73             4879 main/binary-amd64/Packages
+ 51a7470db1ba143597c54214972f3cc3             1556 main/binary-amd64/Packages.gz
+ 3e3a06da2ffbf67289854f82fa26ba73             4879 main/binary-arm64/Packages
+ 51a7470db1ba143597c54214972f3cc3             1556 main/binary-arm64/Packages.gz
+SHA1:
+ a29f85b8a574f954c535bdbf8171013194771101             4879 main/binary-amd64/Packages
+ 51feff4b414233fa4c49eb523054df7c1d590735             1556 main/binary-amd64/Packages.gz
+ a29f85b8a574f954c535bdbf8171013194771101             4879 main/binary-arm64/Packages
+ 51feff4b414233fa4c49eb523054df7c1d590735             1556 main/binary-arm64/Packages.gz
+SHA256:
+ 887c048f376efa81b04471d622a18d304a252e1cb823659eab983e59b98908ac             4879 main/binary-amd64/Packages
+ dab3bef6fda0422169bec4e2ce864e46aec0031f8ce697e029c59e7e3d32283e             1556 main/binary-amd64/Packages.gz
+ 887c048f376efa81b04471d622a18d304a252e1cb823659eab983e59b98908ac             4879 main/binary-arm64/Packages
+ dab3bef6fda0422169bec4e2ce864e46aec0031f8ce697e029c59e7e3d32283e             1556 main/binary-arm64/Packages.gz
+SHA512:
+ cad7712d18b35a330c8f71ab2e9ac4acbe836186227a28db0d0ee13012dc122a828ace20d26c075f5c29aecec8e7e5f9dff05038b54f85a020a27324bb83de74             4879 main/binary-amd64/Packages
+ a13e4dc2c6da2b3eef3e57bca03bb7f18c002fb205470653bcaa26bac82f68e6aab61da99233af2f3baea62422780f0475d847fb08f16e2da6caa9afb3e8a202             1556 main/binary-amd64/Packages.gz
+ cad7712d18b35a330c8f71ab2e9ac4acbe836186227a28db0d0ee13012dc122a828ace20d26c075f5c29aecec8e7e5f9dff05038b54f85a020a27324bb83de74             4879 main/binary-arm64/Packages
+ a13e4dc2c6da2b3eef3e57bca03bb7f18c002fb205470653bcaa26bac82f68e6aab61da99233af2f3baea62422780f0475d847fb08f16e2da6caa9afb3e8a202             1556 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEAhiD0zMiBXJVkc7j71pt8AdumSwFAmrrL6QACgkQ71pt8Adu
+mSxiABAAq2pkQ1+wMgDkdUi/8geetq5F3fZSW0eivKzN/ONMmKjUek2dpbtJKczc
+Jcdl1OYKkAk5lhtzGHwNLxJsx/WX5N/AccGqtzJrC2rVgmDxBswMQ+e0zEW+Ybsm
+mEz0xHqqZBbOOATHOhdBc3MotuK8y+2znr6VTK8mAQPHydTCLkSlE1iFOGe3Ns+J
+TprYGtRKuonePRGOgIBvhmTrYGp21HXOuwKZqAbwyPK+Yg98IW/mC9K2DTH0AU2j
+wJKzUMo2W3SgnuRJodN/Sk484kTKwFeCd0jcMpxaIHwaIfZLIzJ3ONoYwsat1kqi
+AgvGKuMTKSbzOsXV8Lc+AKT1dmHDIltrcQvcasCNtmZXri/Zjmj8dizhJRUuaxWO
+IZzU5+9x4wUP8jfHi5j8qh+QyPcWWTBgwSSJN1IfpL+7p130ywfGWn+5N5QMw3gp
+JJ3hYiOjJKDEYeJ9GLCmQvWSBSfmQNUNIvI+lo8xaIT2FZBQmS970TBeJb/ofhT6
+uZpsue5aK/E4/DJOoJJGNqz8pK/XX4Q/tVrIQOayoHj33i1pQlStaXk8ssCT3CQO
+J4VsV0u1H683k30SA4qQ5vBD9NurlLAcMUuyiJmNVgV67MmjJVWfThIDc5QARyxe
+jNeV9XsV/lLrqinIZoly2UVpdo1CTOvumYQbv31GzGWYMF3BOgg=
+=ZZHB
+-----END PGP SIGNATURE-----

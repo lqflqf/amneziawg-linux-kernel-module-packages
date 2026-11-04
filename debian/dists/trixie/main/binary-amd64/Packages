@@ -1,0 +1,109 @@
+Package: amneziawg-archive-keyring
+Architecture: all
+Version: 1
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Maintainer: AmneziaWG package builder <lqflqf@users.noreply.github.com>
+Filename: pool/main/a/amneziawg-archive-keyring/amneziawg-archive-keyring_1_all.deb
+Size: 2508
+MD5sum: 3601b8dc7060839aaa50abcbc04fc33f
+SHA1: 51c00bdb911004510cba3955cc93cc21b5436ce6
+SHA256: 10b7156b71b9ffc50ecebdd0644ecca58ac220b0720f32697681be5e5991d995
+SHA512: aeb59bfc28ec22f61e93989445671667e337ced7b51edb7a73b6ef8a7d2040a01e9261e87f219fedf54f8df613725e4a3c87812f9347039e6894f5db627fd9bf
+Description: OpenPGP keys of the AmneziaWG package repository
+ This package installs the keyring /usr/share/keyrings/amneziawg-archive-keyring.gpg.
+ APT uses it to verify the AmneziaWG package repository.
+
+Package: amneziawg-archive-keyring
+Architecture: all
+Version: 2
+Multi-Arch: foreign
+Priority: optional
+Section: misc
+Maintainer: AmneziaWG package builder <lqflqf@users.noreply.github.com>
+Filename: pool/main/a/amneziawg-archive-keyring/amneziawg-archive-keyring_2_all.deb
+Size: 2508
+MD5sum: 8092d0b9bb037de0b189bf09addc2688
+SHA1: dc352035dafc59d45fd8b5c3aaacc70d39a2b5d5
+SHA256: f2feee9a3eaac9dee9d293046ff5685222bfb2e7f7fd6f36c90e9bb7573e4c7f
+SHA512: 7ff3ea323e785c9b2337ca7a92d5bb8e7a343eef8643ced9464ec26ac74b20f4d7aa4c38052375aee2d0dd821110fbc0d29f7b9edadc3e1eb8c6d2d799264676
+Description: OpenPGP keys of the AmneziaWG package repository
+ This package installs the keyring /usr/share/keyrings/amneziawg-archive-keyring.gpg.
+ APT uses it to verify the AmneziaWG package repository.
+
+Package: amneziawg-dkms
+Architecture: all
+Version: 3.1.20260906-1
+Priority: optional
+Section: kernel
+Source: amneziawg-linux-kmod
+Maintainer: AmneziaWG package builder <lqflqf@users.noreply.github.com>
+Installed-Size: 1815
+Depends: dkms (>= 2.1.0.0)
+Recommends: amneziawg-archive-keyring
+Filename: pool/main/a/amneziawg-dkms/amneziawg-dkms_3.1.20260906-1_all.deb
+Size: 257668
+MD5sum: a5e6f539aead84640cb1cd397cb1f424
+SHA1: 10765a92bd9f8d02206222dbb8fda8e9d8344fcc
+SHA256: d9a8d19fed0646fd4a41bade73377cc1ae9de35013afb38baa16fd6095cbcb4c
+SHA512: a159a3471333d29c676f6a30ddb04cc41d8dbbf2eb2365240648e519abef7fd119de686a9ab3fcad381838829721bae98591d41ade99ec8d35052aa18c53485b
+Homepage: https://github.com/amnezia-vpn/amneziawg-linux-kernel-module
+Description: AmneziaWG kernel module (DKMS source)
+ AmneziaWG is a VPN protocol that is based on WireGuard. It adds
+ obfuscation of the packet headers and junk packets.
+ .
+ This package contains the source of the amneziawg kernel module.
+ DKMS builds the module for each installed kernel. You must install the
+ kernel headers that agree with each kernel.
+
+Package: amneziawg-dkms
+Architecture: all
+Version: 3.1.20260906-2
+Priority: optional
+Section: kernel
+Source: amneziawg-linux-kmod
+Maintainer: AmneziaWG package builder <lqflqf@users.noreply.github.com>
+Installed-Size: 1815
+Depends: dkms (>= 2.1.0.0)
+Recommends: amneziawg-archive-keyring
+Filename: pool/main/a/amneziawg-dkms/amneziawg-dkms_3.1.20260906-2_all.deb
+Size: 257588
+MD5sum: 954a25efa8f0ebdbf79ca6d0f29aeafd
+SHA1: 17a1049cf995bfd63eef5c6b1510d050a993841e
+SHA256: c9e125bf5b345940ff4a24400c6c32f0966681ba96a1716acb4c155dad4149f1
+SHA512: 84d650d79f88b3a86761adefcc90182133bcd249977c51b7d11f54551855c29ea9b7d922940380d5bc367ba326936d0a6d32b32a307232a5ad3072b513d80fe7
+Homepage: https://github.com/amnezia-vpn/amneziawg-linux-kernel-module
+Description: AmneziaWG kernel module (DKMS source)
+ AmneziaWG is a VPN protocol that is based on WireGuard. It adds
+ obfuscation of the packet headers and junk packets.
+ .
+ This package contains the source of the amneziawg kernel module.
+ DKMS builds the module for each installed kernel. You must install the
+ kernel headers that agree with each kernel.
+
+Package: amneziawg-dkms
+Architecture: all
+Version: 3.1.20260906-3
+Priority: optional
+Section: kernel
+Source: amneziawg-linux-kmod
+Maintainer: AmneziaWG package builder <lqflqf@users.noreply.github.com>
+Installed-Size: 1815
+Depends: dkms (>= 2.1.0.0)
+Recommends: amneziawg-archive-keyring
+Filename: pool/main/a/amneziawg-dkms/amneziawg-dkms_3.1.20260906-3_all.deb
+Size: 257772
+MD5sum: 22e03ab75d10e8eb580d010f30a457be
+SHA1: c4cde6676239fd8db6abc9340d6c1d4c9b5dad17
+SHA256: 9cc2014c4eb51de8f4b2678bebfa3800f765b04b5551c24d147b66cae3dab5a4
+SHA512: 7dda4d207effbc6c5beb7db97fb15a662e41160c9d0e1f7c804b808c8b15f1df5f06d5c5509a13cf7d11844f23eb1ecb7c155d5799222151eb89b3c828d12798
+Homepage: https://github.com/amnezia-vpn/amneziawg-linux-kernel-module
+Description: AmneziaWG kernel module (DKMS source)
+ AmneziaWG is a VPN protocol that is based on WireGuard. It adds
+ obfuscation of the packet headers and junk packets.
+ .
+ This package contains the source of the amneziawg kernel module.
+ DKMS builds the module for each installed kernel. You must install the
+ kernel headers that agree with each kernel.
+

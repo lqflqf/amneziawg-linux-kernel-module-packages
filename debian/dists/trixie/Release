@@ -1,0 +1,29 @@
+Architectures: amd64 arm64
+Codename: trixie
+Components: main
+Date: Wed, 04 Nov 2026 13:14:13 +0000
+Description: AmneziaWG kernel module for Debian trixie
+Label: AmneziaWG kernel module
+Origin: AmneziaWG
+Suite: trixie
+Valid-Until: Fri, 04 Dec 2026 13:14:13 +0000
+MD5Sum:
+ 3e3a06da2ffbf67289854f82fa26ba73             4879 main/binary-amd64/Packages
+ 51a7470db1ba143597c54214972f3cc3             1556 main/binary-amd64/Packages.gz
+ 3e3a06da2ffbf67289854f82fa26ba73             4879 main/binary-arm64/Packages
+ 51a7470db1ba143597c54214972f3cc3             1556 main/binary-arm64/Packages.gz
+SHA1:
+ a29f85b8a574f954c535bdbf8171013194771101             4879 main/binary-amd64/Packages
+ 51feff4b414233fa4c49eb523054df7c1d590735             1556 main/binary-amd64/Packages.gz
+ a29f85b8a574f954c535bdbf8171013194771101             4879 main/binary-arm64/Packages
+ 51feff4b414233fa4c49eb523054df7c1d590735             1556 main/binary-arm64/Packages.gz
+SHA256:
+ 887c048f376efa81b04471d622a18d304a252e1cb823659eab983e59b98908ac             4879 main/binary-amd64/Packages
+ dab3bef6fda0422169bec4e2ce864e46aec0031f8ce697e029c59e7e3d32283e             1556 main/binary-amd64/Packages.gz
+ 887c048f376efa81b04471d622a18d304a252e1cb823659eab983e59b98908ac             4879 main/binary-arm64/Packages
+ dab3bef6fda0422169bec4e2ce864e46aec0031f8ce697e029c59e7e3d32283e             1556 main/binary-arm64/Packages.gz
+SHA512:
+ cad7712d18b35a330c8f71ab2e9ac4acbe836186227a28db0d0ee13012dc122a828ace20d26c075f5c29aecec8e7e5f9dff05038b54f85a020a27324bb83de74             4879 main/binary-amd64/Packages
+ a13e4dc2c6da2b3eef3e57bca03bb7f18c002fb205470653bcaa26bac82f68e6aab61da99233af2f3baea62422780f0475d847fb08f16e2da6caa9afb3e8a202             1556 main/binary-amd64/Packages.gz
+ cad7712d18b35a330c8f71ab2e9ac4acbe836186227a28db0d0ee13012dc122a828ace20d26c075f5c29aecec8e7e5f9dff05038b54f85a020a27324bb83de74             4879 main/binary-arm64/Packages
+ a13e4dc2c6da2b3eef3e57bca03bb7f18c002fb205470653bcaa26bac82f68e6aab61da99233af2f3baea62422780f0475d847fb08f16e2da6caa9afb3e8a202             1556 main/binary-arm64/Packages.gz
