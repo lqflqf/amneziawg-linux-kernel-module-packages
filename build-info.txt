@@ -1,0 +1,7 @@
+release_inputs_hash=ae0844061e8cbb0b0ea25055446d7ba760d4c22506d2d433bc605d3f28cd1ae7
+awg_version=3.1.20261113.02
+awg_tag=v3.1.20261113-02
+awg_commit=63ed35de3d3f135b17e8eae0b84949e7700303be
+deb_version=3.1.20261113.02-1
+keys_version=2
+source_commit=ea49a18197eb0e8402f77a2cbcd560052cfd2af7
